@@ -1,0 +1,8 @@
+div {
+    background-color: rgb(139, 128, 126);
+}
+
+p {
+    padding: 20px;
+    box-sizing: border-box;
+}
